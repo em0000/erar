@@ -1,2 +1,2 @@
 # erar
-erar highchart
+This is the bulentin report apps
